@@ -1,0 +1,9 @@
+sky:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    host: localhost
+#    部署后应该有线上数据库
+    port: 3306
+    database: learning
+    username: root
+    password: qfgnyj233
